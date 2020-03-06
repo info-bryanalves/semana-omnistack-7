@@ -8,7 +8,7 @@ const app = express()
 const server = require('http').Server(app)
 const io = require('socket.io')(server)
 
-mongoose.connect('mongodb+srv://semana:semana@cluster0-ka2hq.mongodb.net/test?retryWrites=true&w=majority',{
+mongoose.connect('mongodb+srv://semana:semana@cluster0-ka2hq.mongodb.net/SemanaOmnistack7?retryWrites=true&w=majority',{
     useNewUrlParser: true
 })
 
