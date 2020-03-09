@@ -7,7 +7,6 @@ Repositório referente ao curso da Semana Omnistack 7.0, contendo somente os amb
 Recriação da interface do Instagram e funcionalidades basicas.
 
 ## Funcionalidades
-
 -Dar likes
 -Postar foto;
 -Feed em *real time*, utilizando Socket.io
