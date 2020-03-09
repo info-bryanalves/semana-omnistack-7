@@ -6,8 +6,8 @@ Repositório referente ao curso da Semana Omnistack 7.0, contendo somente os amb
 
 Recriação da interface do Instagram e funcionalidades basicas:
 
-- Dar likes
+- Dar likes;
 - Postar foto;
-- Feed em *real time*, utilizando Socket.io
+- Feed em *real time*, utilizando Socket.io;
 
 Stack: React.js, Express.js e MongoDB.
