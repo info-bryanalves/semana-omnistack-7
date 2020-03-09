@@ -3,7 +3,10 @@
 Repositório referente ao curso da Semana Omnistack 7.0, contendo somente os ambientes de Front-end e Back-end, sem a parte mobile no momento.
 
 ## Projeto
-Projeto de recriação da interface do Instagram e funcionalidades basicas:
+
+Recriação da interface do Instagram e funcionalidades basicas.
+
+## Funcionalidades
 
 -Dar likes
 -Postar foto;
