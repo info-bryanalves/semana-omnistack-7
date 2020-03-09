@@ -1,3 +1,11 @@
 ## Semana Omnistack 7.0
 
-Repositório referente ao curso da Semana Omnistack 7.0, contendo somente os ambientes de Front-end (React.js) e Back-end(Node/Express.js), sem a parte mobile no momento.
+Repositório referente ao curso da Semana Omnistack 7.0, contendo somente os ambientes de Front-end e Back-end, sem a parte mobile no momento.
+
+## Projeto
+Projeto de recriação da interface do Instagram e funcionalidades basicas:
+-Dar likes
+-Postar foto;
+-Feed em "real time", utilizando Socket.io
+
+Stack: React.js, Express.js e MongoDB.
